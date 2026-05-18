@@ -1,12 +1,8 @@
-<h1 align="center">Hey 👋 I'm Tirth Patel</h1>
-
-<h3 align="center">💻 CSE Student  | 🔐 Cybersecurity & Networking Enthusiast  | 🌐 Frontend Developer</h3>
+<img src="https://raw.githubusercontent.com/tirth3011/tirth3011/main/Banner.gif" width="100%">
 
 <p align="center">
 Passionate about building modern web experiences and exploring cybersecurity, networking & secure systems.
 </p>
-
-<img src="https://raw.githubusercontent.com/tirth3011/tirth3011/main/Banner.gif" width="100%">
 
 ---
 
