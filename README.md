@@ -1,26 +1,32 @@
 <h1 align="center">Hey 👋 I'm Tirth Patel</h1>
 
-<h3 align="center">💻 CSE Student | 🌐 Frontend Developer | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center">💻 CSE Student  | 🔐 Cybersecurity & Networking Enthusiast  | 🌐 Frontend Developer</h3>
 
 <p align="center">
-Passionate about building modern web experiences and exploring the world of cybersecurity & networking.
+Passionate about building modern web experiences and exploring cybersecurity, networking & secure systems.
 </p>
 
-<img width="480" height="317" alt="image" src="https://github.com/user-attachments/assets/a8dd9f80-88ac-4c6e-a71e-9a90c99b3d75" />
+<img src="https://github.com/user-attachments/assets/a8dd9f80-88ac-4c6e-a71e-9a90c99b3d75" width="100%">
 
 ---
 
 # 🚀 About Me
 
 🔹 Exploring Web Development & Cybersecurity  
-🔹 Building responsive and clean UI projects  
-🔹 Learning Networking, Linux & Security Concepts  
+🔹 Learning CCNA, Networking & Linux Fundamentals  
+🔹 Building responsive and modern UI projects  
 🔹 Interested in secure and scalable systems  
 🔹 Focused on practical projects & continuous learning  
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Signature Line
+
+> Exploring networks, securing systems, and building technology with purpose.
+
+---
+
+# 🛠️ Tech I’m Working With
 
 <p align="left">
 
@@ -39,28 +45,38 @@ Passionate about building modern web experiences and exploring the world of cybe
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Current Focus
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tirth3011&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth3011&layout=compact&theme=tokyonight" />
-
-</p>
+✔️ Strengthening core web fundamentals  
+✔️ Building secure and scalable interfaces  
+✔️ Practicing networking & CCNA concepts  
+✔️ Learning Linux & system security  
+✔️ Writing clean, maintainable code  
 
 ---
 
-# 🔥 Current Focus
+# 🚀 Featured Projects
 
-✔️ Frontend Development  
-✔️ Cybersecurity Fundamentals  
-✔️ Networking & Linux  
-✔️ Building Real-World Projects  
+🔐 Network Security Lab (Packet Tracer)  
+🌐 Small Office Network Design  
+🧠 Subnetting Practice & IP Design  
+🛡️ Basic Security Configurations (ACL, VLAN)  
+⚡ ExploreAura Travel Website  
+
+---
+
+# 🌱 Currently Learning
+
+📌 CCNA Fundamentals  
+📌 Cybersecurity Basics  
+📌 Linux Networking  
+📌 Frontend Development  
+📌 Database Management System  
 
 ---
 
 # ⚡ Fun Line
+
 ```cpp
 while(alive)
 {
