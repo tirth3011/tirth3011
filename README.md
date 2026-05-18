@@ -6,8 +6,7 @@
 Passionate about building modern web experiences and exploring the world of cybersecurity & networking.
 </p>
 
-<img src="<img width="480" height="317" alt="image" src="https://github.com/user-attachments/assets/a8dd9f80-88ac-4c6e-a71e-9a90c99b3d75" />
-" width="100%">
+<img width="480" height="317" alt="image" src="https://github.com/user-attachments/assets/a8dd9f80-88ac-4c6e-a71e-9a90c99b3d75" />
 
 ---
 
