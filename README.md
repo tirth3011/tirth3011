@@ -6,7 +6,7 @@
 Passionate about building modern web experiences and exploring cybersecurity, networking & secure systems.
 </p>
 
-<img src="[https://github.com/user-attachments/assets/a8dd9f80-88ac-4c6e-a71e-9a90c99b3d75](https://canva.link/kqrgs1sacq8895a)" width="100%">
+<img src="https://raw.githubusercontent.com/tirth3011/tirth3011/main/Banner.gif" width="100%">
 
 ---
 
