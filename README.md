@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tirth3011/tirth3011/main/Banner.gif" width="100%">
+<img src="https://raw.githubusercontent.com/tirth3011/tirth3011/main/banner.gif" width="100%">
 
 <p align="center">
 Passionate about building modern web experiences and exploring cybersecurity, networking & secure systems.
