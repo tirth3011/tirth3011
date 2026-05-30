@@ -82,6 +82,20 @@ Passionate about building modern web experiences and exploring cybersecurity, ne
 
 ---
 
+
+# 📫 Connect With Me
+
+📧 Email: **tirth7383@gmail.com**
+
+💼 Portfolio: **https://metirthpatel.vercel.app/**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/tirthpatel3011/**
+
+🐙 GitHub: **https://github.com/tirth3011**
+
+---
+
+
 # ⚡ Fun Line
 
 ```cpp
